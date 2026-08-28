@@ -64,16 +64,6 @@ Projeto 4 – Testar e melhorar a experiência dos estudantes.
 
 A equipe deverá conversar com estudantes para verificar se o problema realmente acontece, entender como eles resolvem atualmente e descobrir quais são suas principais dificuldades.
 
-## Issues da Primeira Sprint:
-
-Investigar como estudantes organizam suas atividades.
-
-Identificar as principais dificuldades.
-
-Definir informações necessárias para cada atividade.
-
-Criar a primeira solução de organização.
-
 Testar a solução com um estudante.
 
 Registrar feedback e próximos passos.
